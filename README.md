@@ -3,7 +3,7 @@
 
 ## 1. Business Problem
 
-Digital marketplaces face fraud from fake accounts, stolen credentials, or chargebacks. Early detection reduces financial loss and improves platform trust. Manual review does not scale with volume.
+Digital marketplaces are increasingly exposed to identity‑based and transaction fraud, including fake or multi‑opened accounts, account takeovers using stolen credentials, and abusive chargebacks where customers dispute legitimate orders to obtain refunds. These behaviors create direct financial losses through refunds, chargeback fees, and fulfillment costs, and they also erode trust with merchants and legitimate customers, who bear the impact through stricter policies and added friction in the product experience. As platforms scale, manual review teams and static rule‑based systems cannot keep pace with rising transaction volume and rapidly evolving fraud tactics, leading either to undetected fraud or overly aggressive controls that block good users. To remain competitive and protect marketplace economics, platforms need data‑driven systems that can proactively identify high‑risk customers and behaviors in near real time, enabling targeted interventions that reduce fraud losses while preserving a low‑friction experience for trustworthy users. This project addresses that need by developing a fraudulent customer classification model that scores account‑level risk and can plug into operational workflows such as blocking, step‑up verification, or prioritized manual review.
 
 ## 2. Data Understanding
 
