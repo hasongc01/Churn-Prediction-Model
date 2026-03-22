@@ -1,0 +1,4 @@
+risk_band,cases,false_positives,borderline_cases,fp_rate_within_band,borderline_rate_within_band
+high,357,178,0,0.49859943977591037,0.0
+low,2631,0,0,0.0,0.0
+medium,309,90,135,0.2912621359223301,0.4368932038834951

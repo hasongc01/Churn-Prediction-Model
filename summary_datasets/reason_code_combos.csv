@@ -1,0 +1,5 @@
+reason_code_combo,cases
+no_reason_code,2878
+many_unique_ips,221
+high_transaction_velocity,166
+"high_transaction_velocity, many_unique_ips",32
